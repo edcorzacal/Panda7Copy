@@ -1,3 +1,5 @@
+**2nd Year (2nd Sem) Activity**
+
 # 🌐 Panda7.ca Website Clone
 
 A responsive front-end website project inspired by [Panda7.ca](https://www.panda7.ca). Built using HTML, CSS, and JavaScript to practice modern web design techniques, layouts, and interactive features.
